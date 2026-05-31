@@ -1,1 +1,5 @@
-
+{
+  "_base": "https://raw.githubusercontent.com/M0XA/MOXA_soundbank_VAMP/main/",
+  "madmollus_bd": ["MadMollus_bd1.wav", "MadMollus_bd2.wav"],
+  "madmollus_fx": ["MadMollus_fx1.wav", "MadMollus_fx2.wav", "MadMollus_fx3.wav", "MadMollus_fx4.wav"]
+}
