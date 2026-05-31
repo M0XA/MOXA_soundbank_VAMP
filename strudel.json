@@ -1,5 +1,19 @@
 {
   "_base": "https://raw.githubusercontent.com/M0XA/MOXA_soundbank_VAMP/main/",
-  "madmollus_bd": ["MadMollus_bd1.wav", "MadMollus_bd2.wav"],
-  "madmollus_fx": ["MadMollus_fx1.wav", "MadMollus_fx2.wav", "MadMollus_fx3.wav", "MadMollus_fx4.wav"]
+  "mad_mollus_bd": ["MadMollus_bd1.wav", "MadMollus_bd2.wav"],
+  "mad_mollus_fx": ["MadMollus_fx1.wav", "MadMollus_fx2.wav", "MadMollus_fx3.wav", "MadMollus_fx4.wav"],
+  "mad_mollus_pad": ["MadMollus_pad1.wav", "MadMollus_pad2.wav", "MadMollus_pad3.wav"],
+  "mad_mollus_sd": ["MadMollus_sd1.wav", "MadMollus_sd2.wav", "MadMollus_sd3.wav", "MadMollus_sd4.wav"],
+  "mad_mollus_hh": "MadMollus_hhc1.wav",
+  "mad_mollus_mt": "MadMollus_mt.wav",
+  "mad_mollus_rid": "MadMollus_rid1.wav",
+  
+  "trancil_exit_fx": ["TrancilExit_fx1.wav", "TrancilExit_fx2.wav", "TrancilExit_fx3.wav", "TrancilExit_fx4.wav", "TrancilExit_fx5.wav"],
+  "trancil_exit_hh": ["TrancilExit_hhc1.wav", "TrancilExit_hhc2.wav"],
+  "trancil_exit_sd": ["TrancilExit_sd1.wav", "TrancilExit_sd2.wav"],
+  "trancil_exit_perc": ["TrancilExit_perc1.wav", "TrancilExit_perc2.wav"],
+  "trancil_exit_bd": "TrancilExit_bd1.wav",
+  "trancil_exit_ht": "TrancilExit_ht.wav",
+  "trancil_exit_lt": "TrancilExit_lt.wav",
+  "trancil_exit_sh": "TrancilExit_sh1.wav"
 }
