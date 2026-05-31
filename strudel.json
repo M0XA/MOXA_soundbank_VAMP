@@ -18,6 +18,7 @@
   "trancil_exit_sh": "TrancilExit_sh1.wav",
 
   "pad": ["pad_atmos1.wav", "pad_chill piano.wav", "pad_piano1.wav", "pad_atmos E2.wav"],
-  "choir": ["choir_C.wav", "choir_gmaj9.wav"]
+  "choir": ["choir_C.wav", "choir_gmaj9.wav"],
+  "bleep": ["bleep_pan1.wav", "blep_pan2.wav"]
   
 }
