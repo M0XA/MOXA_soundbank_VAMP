@@ -15,5 +15,8 @@
   "trancil_exit_bd": "TrancilExit_bd1.wav",
   "trancil_exit_ht": "TrancilExit_ht.wav",
   "trancil_exit_lt": "TrancilExit_lt.wav",
-  "trancil_exit_sh": "TrancilExit_sh1.wav"
+  "trancil_exit_sh": "TrancilExit_sh1.wav",
+
+  "pad": ["pad_atmos1.wav", "pad_chill piano.wav", "pad_piano1.wav"]
+  
 }
