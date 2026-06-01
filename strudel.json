@@ -20,5 +20,7 @@
   "pad": ["pad_atmos1.wav", "pad_chill piano.wav", "pad_piano1.wav", "pad_atmos E2.wav"],
   "choir": ["choir_C.wav", "choir_gmaj9.wav"],
   "bleep": ["bleep_pan1.wav", "bleep_pan2.wav"],
-  "beam": "beam_ring.wav"
+  "beam": "beam_ring.wav",
+
+  "gate": "gate_choir1.wav"
 }
