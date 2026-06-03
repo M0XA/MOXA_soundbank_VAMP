@@ -31,6 +31,6 @@
   "choir": ["choir_C.wav", "choir_gmaj9.wav", "choir_elf1.wav"],
   "bleep": ["bleep_pan1.wav", "bleep_pan2.wav"],
   "beam": "beam_ring.wav",
-  "piano": "piano_deepkeys",
+  "piano": "piano_deepkeys.wav",
   "gate": "gate_choir1.wav"
 }
